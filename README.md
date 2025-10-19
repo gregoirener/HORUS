@@ -30,9 +30,7 @@ Installation:
 
 Download the latest release: https://github.com/gregoirener/HORUS/releases/tag/v0.01
 
-
-
-
+EAOL
 
 
                                                                                                       
@@ -54,7 +52,7 @@ H:::::::H     H:::::::H OO:::::::::::::OO R::::::R     R:::::R  UU:::::::::::::U
 H:::::::H     H:::::::H   OO:::::::::OO   R::::::R     R:::::R    UU:::::::::UU    S:::::::::::::::SS 
 HHHHHHHHH     HHHHHHHHH     OOOOOOOOO     RRRRRRRR     RRRRRRR      UUUUUUUUU       SSSSSSSSSSSSSSS   
                                                                                                       
-                                                                                                      
+ EAOL                                                                                                     
                                                                                                       
                                                                                                       
                                                                                                       
