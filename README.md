@@ -29,3 +29,4 @@ Includes an ASCII art lounge at startup for a cool interface.
 Installation:
 
 Download the latest release: https://github.com/gregoirener/HORUS/releases/tag/v0.01
+<img width="863" height="321" alt="horusasciipeviemreadmd" src="https://github.com/user-attachments/assets/32deff0b-daf2-42e9-a1ec-6c8fe3add1c4" />
